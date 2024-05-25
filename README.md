@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tasneem Bin Mahmood (Aditto)</h1>
+<h1 align="center">Hi 👋, I'm Tasneem Bin Mahmood</h1>
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE0YTEwa3VxN2ZtZ2c1bWcyMjdqaXFncnF3OThjb29idDJzdnMzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEgLMu0nrOri8w/giphy.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adittomahmood&label=Profile%20views&color=0e75b6&style=flat" alt="adittomahmood" /> </p>
 
