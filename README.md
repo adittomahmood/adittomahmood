@@ -36,7 +36,7 @@
               <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
             </a>
           </p>
-          <p><strong>R, Shiny, ggplot2, dplyr</strong> - Interactive business intelligence tool that forecasts profit margins using multivariate regression analysis and market indicators.</p>
+          <p><strong>Python, Pandas, scikit-learn, Matplotlib</strong> – Built a business profit prediction model using Multiple Linear Regression. Utilized real startup investment data to train and evaluate the model, enabling data-driven forecasting of company profits.</p>
         </div>
       </td>
     </tr>
