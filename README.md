@@ -68,26 +68,24 @@
 ##
 
 <div align="center">
-  <table width="100%" style="margin: 30px 0; border: none; background: transparent;">
+  <table width="100%" style="border: none; margin: 30px 0;">
     <tr>
-      <td style="background: linear-gradient(135deg, #0f1419, #1e293b); padding: 40px; border-radius: 20px; border: 2px solid #00ffcc; box-shadow: 0 15px 35px rgba(0, 255, 204, 0.2); position: relative; overflow: hidden;">
-        <!-- Neon Glow Effect -->
-        <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(0, 255, 204, 0.15), transparent); animation: pulse 6s infinite;"></div>
-        <p align="center" style="font-size: 28px; font-weight: 700; color: #ffffff; text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; font-style: italic; margin-bottom: 25px; line-height: 1.6; position: relative; z-index: 1;">
-          <span style="color: #ffd700; font-size: 40px; text-shadow: 0 0 15px #ffd700;">❝</span> 
-          When debugging, novices insert corrective code; <br><span style="color: #ff6bcb; font-weight: 800;">experts remove defective code.</span> 
-          <span style="color: #ffd700; font-size: 40px; text-shadow: 0 0 15px #ffd700;">❞</span>
-        </p>
-        <p align="right" style="color: #ff6bcb; margin-top: 0; font-size: 22px; font-weight: 700; text-shadow: 0 0 8px #ff6bcb; position: relative; z-index: 1;">― Richard Pattis</p>
+      <td>
+        <div style="background: linear-gradient(45deg, #0d1117, #161b22); border: 2px solid #30363d; border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); padding: 25px; position: relative; overflow: hidden;">
+          <div style="position: absolute; height: 200px; width: 200px; background: linear-gradient(45deg, #ff00cc, #3333ff); opacity: 0.1; filter: blur(40px); top: -50px; left: -50px; border-radius: 50%;"></div>
+          <div style="position: absolute; height: 150px; width: 150px; background: linear-gradient(45deg, #00ffcc, #3333ff); opacity: 0.1; filter: blur(35px); bottom: -30px; right: -30px; border-radius: 50%;"></div>
+          <div style="border-left: 4px solid #7e57c2; padding-left: 20px; margin: 15px 0;">
+            <p align="center" style="font-family: 'Courier New', monospace; font-size: 22px; font-weight: bold; background: linear-gradient(45deg, #7fffd4, #7e57c2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 10px 0;">
+              When debugging, novices insert corrective code;<br>experts remove defective code.
+            </p>
+            <p align="right" style="font-family: 'Arial', sans-serif; font-size: 18px; background: linear-gradient(45deg, #ff69b4, #ff8c00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-top: 15px; font-weight: bold;">
+              _Richard Pattis_
+            </p>
+          </div>
+          <div style="position: absolute; top: 10px; left: 10px; font-size: 36px; opacity: 0.3; color: #7e57c2;">💻</div>
+          <div style="position: absolute; bottom: 10px; right: 10px; font-size: 36px; opacity: 0.3; color: #ff69b4;">⚡</div>
+        </div>
       </td>
     </tr>
   </table>
 </div>
-
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); opacity: 0.5; }
-    50% { transform: scale(1.1); opacity: 0.8; }
-    100% { transform: scale(1); opacity: 0.5; }
-  }
-</style>
