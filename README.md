@@ -36,8 +36,8 @@
             <a href="https://github.com/adittomahmood/Salary_Prediction_Model" target="_blank">
               <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
             </a>
-            <a href="https://adittoportfolio.vercel.app/projects/salary-prediction" target="_blank">
-              <img src="https://img.shields.io/badge/Live-View%20Demo-success?style=for-the-badge&logo=vercel" />
+            <a href="https://github.com/adittomahmood/Profit_Prediction_Model" target="_blank">
+              <img src="https://i.ibb.co.com/p6ByJD7y/predicted-photo-imageonline-co-merged.png" />
             </a>
           </p>
           <p><strong>Python, Scikit-learn, Pandas, Matplotlib</strong> - An advanced ML model for predicting salaries based on experience, education, and industry variables with high accuracy.</p>
