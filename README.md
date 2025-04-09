@@ -82,24 +82,6 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <img src="https://img.shields.io/badge/Certification-React%20Developer-61DAFB?style=for-the-badge&logo=react" alt="React Developer" />
-          <p>React Developer Certification</p>
-          <p><i>Issued by freeCodeCamp • September 2023</i></p>
-          <a href="https://www.freecodecamp.org/certification/xyz/react" target="_blank">View Credential</a>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://img.shields.io/badge/Certification-AWS%20Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Cloud Practitioner" />
-          <p>AWS Certified Cloud Practitioner</p>
-          <p><i>Issued by Amazon Web Services • December 2023</i></p>
-          <a href="https://www.credly.com/badges/abc123xyz" target="_blank">View Credential</a>
-        </div>
-      </td>
-    </tr>
   </table>
 </div>
 
