@@ -1,7 +1,6 @@
 ![MasterHead](https://i.ibb.co/zFjRpqY/Facebook-Cover.png)
 
 <h1 align="center">Hi 👋, I'm Tasneem Bin Mahmood</h1>
-<h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=adittomahmood">
@@ -16,8 +15,7 @@
 </div>
 
 ## 💫 About Me:
-- 🔭 I'm currently working on **improving my full-stack skills**
-- 🌱 I'm currently learning **Back-End, NodeJs, MongoDB**
+- 🌱 I'm currently learning **ML core Concepts**
 - 👨‍💻 All of my projects are available at [my portfolio](https://adittoportfolio.vercel.app/)
 - 📫 How to reach me: **adittomahmood@gmail.com**
 - ⚡ Fun fact: **I am very friendly and love solving problems**
