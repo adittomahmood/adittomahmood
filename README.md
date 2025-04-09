@@ -67,7 +67,6 @@
     <tr>
       <td width="50%">
         <div align="center">
-          <img src="https://img.shields.io/badge/Certification-Meta%20Front%20End%20Developer-blue?style=for-the-badge&logo=meta" alt="Meta Front End Developer" />
           <p>Learn Java Programming</p>
           <p><i>Issued by Udemy • April 2025</i></p>
           <a href="https://www.udemy.com/certificate/UC-860f33ff-0bac-4a9b-959c-306ef81d871c/" target="_blank">View Credential</a>
@@ -75,7 +74,6 @@
       </td>
       <td width="50%">
         <div align="center">
-          <img src="https://img.shields.io/badge/Certification-JavaScript%20Advanced-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Advanced" />
           <p>Typing Speed</p>
           <p><i>Issued by Typing.com • December 2024</i></p>
           <a href="https://www.typing.com/apiv1/student/tests/328961096/156448677/certificate?language=en" target="_blank">View Credential</a>
