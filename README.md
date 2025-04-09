@@ -1,9 +1,6 @@
 ![MasterHead](https://i.ibb.co/zFjRpqY/Facebook-Cover.png)
 
 <h1 align="center">Hi 👋, I'm Tasneem Bin Mahmood</h1>
-  <a href="https://komarev.com/ghpvc/?username=adittomahmood">
-    <img src="https://komarev.com/ghpvc/?username=adittomahmood&label=Profile%20views&color=0e75b6&style=flat" alt="adittomahmood" />
-  </a>
 
 <div align="center">
   <a href="https://adittoportfolio.vercel.app/assets/Tasneem_Bin_Mahmood_Resume.pdf" download>
