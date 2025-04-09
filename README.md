@@ -21,7 +21,8 @@
 - 👨‍💻 All of my projects are available at [my portfolio](https://adittoportfolio.vercel.app/)
 - 📫 How to reach me: **adittomahmood@gmail.com**
 - ⚡ Fun fact: **I am very friendly and love solving problems**
-🚀 Featured Projects
+
+## 🚀 Featured Projects
 <div align="center">
   <table>
     <tr>
