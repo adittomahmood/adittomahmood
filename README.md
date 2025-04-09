@@ -36,9 +36,6 @@
             <a href="https://github.com/adittomahmood/Salary_Prediction_Model" target="_blank">
               <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
             </a>
-            <a href="https://github.com/adittomahmood/Profit_Prediction_Model" target="_blank">
-              <img src="https://i.ibb.co.com/p6ByJD7y/predicted-photo-imageonline-co-merged.png" />
-            </a>
           </p>
           <p><strong>Python, Scikit-learn, Pandas, Matplotlib</strong> - An advanced ML model for predicting salaries based on experience, education, and industry variables with high accuracy.</p>
         </div>
@@ -47,7 +44,7 @@
         <h3 align="center">Business Profit Prediction System</h3>
         <div align="center">
           <a href="https://github.com/adittomahmood/Profit_Prediction_Model" target="_blank">
-            <img src="https://i.ibb.co/x7SBp9t/profit-prediction-visualization.png" alt="Profit Prediction Model" width="100%" />
+            <img src="https://i.ibb.co.com/p6ByJD7y/predicted-photo-imageonline-co-merged.png" alt="Profit Prediction Model" width="100%" />
           </a>
           <p>
             <a href="https://github.com/adittomahmood/Profit_Prediction_Model" target="_blank">
@@ -63,6 +60,7 @@
     </tr>
   </table>
 </div>
+
 🏆 Certifications & Achievements
 <div align="center">
   <table>
