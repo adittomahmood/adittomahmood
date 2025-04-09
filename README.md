@@ -28,10 +28,10 @@
 
 ## 🚀 Featured Projects
 <div align="center">
-  <a href="https://github.com/adittomahmood/project-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adittomahmood&repo=project-name-1&theme=radical" />
+  <a href="https://github.com/adittomahmood/Salary_Prediction_Model">
+    <img src="https://i.ibb.co.com/RphYHR1c/Test-Data-Image-imageonline-co-merged.png" />
   </a>
-  <a href="https://github.com/adittomahmood/project-name-2">
+  <a href="https://github.com/adittomahmood/Profit_Prediction_Model">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adittomahmood&repo=project-name-2&theme=radical" />
   </a>
 </div>
@@ -76,11 +76,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adittomahmood&theme=radical" alt="GitHub Streak Stats" />
-</div>
 
 ---
 
