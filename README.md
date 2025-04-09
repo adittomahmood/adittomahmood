@@ -50,9 +50,6 @@
             <a href="https://github.com/adittomahmood/Profit_Prediction_Model" target="_blank">
               <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
             </a>
-            <a href="https://adittoportfolio.vercel.app/projects/profit-prediction" target="_blank">
-              <img src="https://img.shields.io/badge/Live-View%20Demo-success?style=for-the-badge&logo=vercel" />
-            </a>
           </p>
           <p><strong>R, Shiny, ggplot2, dplyr</strong> - Interactive business intelligence tool that forecasts profit margins using multivariate regression analysis and market indicators.</p>
         </div>
