@@ -64,19 +64,3 @@
     </tr>
   </table>
 </div>
-
-##
-
-##
-<div align="center">
-  <table width="100%" style="margin: 30px 0; border: none; background: transparent;">
-    <tr>
-      <td style="background: linear-gradient(135deg, #1e2025, #2d3748); padding: 30px; border-radius: 15px; border: 1px solid #4a5568; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
-        <p align="center" style="font-size: 24px; font-weight: 500; color: #7fffd4; font-style: italic; margin-bottom: 20px; line-height: 1.5;">
-          <span style="color: #ffd700; font-size: 32px;">❝</span> When debugging, novices insert corrective code; experts remove defective code. <span style="color: #ffd700; font-size: 32px;">❞</span>
-        </p>
-        <p align="right" style="color: #ff69b4; margin-top: 0; font-size: 19px; font-weight: 600;">― Richard Pattis</p>
-      </td>
-    </tr>
-  </table>
-</div>
