@@ -9,10 +9,6 @@
   
 </div>
 
-## 💫 About Me:
-- 🌱 I'm currently learning **ML core Concepts**
-- 📫 How to reach me: **adittomahmood@gmail.com**
-- ⚡ Fun fact: **I am very friendly and love solving problems**
 
 ## 🚀 Featured Projects
 <div align="center">
