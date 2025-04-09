@@ -15,10 +15,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adittomahmood&show_icons=true&theme=radical" alt="Tasneem's GitHub stats" />
-</div>
-
 ## 💫 About Me:
 - 🔭 I'm currently working on **improving my full-stack skills**
 - 🌱 I'm currently learning **Back-End, NodeJs, MongoDB**
