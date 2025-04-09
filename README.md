@@ -68,17 +68,17 @@
       <td width="50%">
         <div align="center">
           <img src="https://img.shields.io/badge/Certification-Meta%20Front%20End%20Developer-blue?style=for-the-badge&logo=meta" alt="Meta Front End Developer" />
-          <p>Meta Front-End Developer Professional Certificate</p>
-          <p><i>Issued by Meta • June 2023</i></p>
-          <a href="https://www.coursera.org/account/accomplishments/verify/ABC123XYZ" target="_blank">View Credential</a>
+          <p>Learn Java Programming</p>
+          <p><i>Issued by Udemy • April 2025</i></p>
+          <a href="https://www.udemy.com/certificate/UC-860f33ff-0bac-4a9b-959c-306ef81d871c/" target="_blank">View Credential</a>
         </div>
       </td>
       <td width="50%">
         <div align="center">
           <img src="https://img.shields.io/badge/Certification-JavaScript%20Advanced-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Advanced" />
-          <p>Advanced JavaScript Programming Certificate</p>
-          <p><i>Issued by Udemy • March 2023</i></p>
-          <a href="https://www.udemy.com/certificate/UC-ABC123XYZ/" target="_blank">View Credential</a>
+          <p>Typing Speed</p>
+          <p><i>Issued by Typing.com • December 2024</i></p>
+          <a href="https://www.typing.com/apiv1/student/tests/328961096/156448677/certificate?language=en" target="_blank">View Credential</a>
         </div>
       </td>
     </tr>
@@ -107,12 +107,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/adittomahmood">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/adittomahmood">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
