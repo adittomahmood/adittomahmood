@@ -61,7 +61,7 @@
   </table>
 </div>
 
-🏆 Certifications & Achievements
+## 🏆 Certifications & Achievements
 <div align="center">
   <table>
     <tr>
@@ -83,7 +83,7 @@
   </table>
 </div>
 
-## 🌐 Connect with me
+##
 <p align="center">
   <a href="https://linkedin.com/in/adittomahmood">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
