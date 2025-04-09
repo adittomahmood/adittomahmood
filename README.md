@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Back-End, NodeJs, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://adittoportfolio.netlify.app/](https://adittoportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adittoportfolio.netlify.app/](https://adittoportfolio.vercel.app/)
 
-- 📫 How to reach me **tasneem.bin.mahmood@g.bracu.ac.bd**
+- 📫 How to reach me **adittomahmood@gmail.com**
 
 - ⚡ Fun fact **I am very friendly**
 
