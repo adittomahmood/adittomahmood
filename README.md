@@ -1,23 +1,10 @@
 ![MasterHead](https://i.ibb.co/zFjRpqY/Facebook-Cover.png)
 
 <h1 align="center">Hi 👋, I'm Tasneem Bin Mahmood</h1>
-<h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=adittomahmood">
-    <img src="https://komarev.com/ghpvc/?username=adittomahmood&label=Profile%20views&color=0e75b6&style=flat" alt="adittomahmood" />
-  </a>
   <a href="https://adittoportfolio.vercel.app/assets/Tasneem_Bin_Mahmood_Resume.pdf" download>
     <img src="https://img.shields.io/badge/Download%20CV-PDF-red" alt="Download CV" />
   </a>
-  <a href="https://github.com/adittomahmood?tab=followers">
-    <img src="https://img.shields.io/github/followers/adittomahmood?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</div>
-<div align="center" style="background-color: #1e2025; padding: 20px; margin: 20px 0; border-radius: 8px;">
-  <p style="color: #7fffd4; font-size: 18px; font-style: italic;">
-    <span style="color: #ffd700;">"</span> The key to keeping software costs down is to write code that is easily modified. <span style="color: #ffd700;">"</span>
-  </p>
-  <p style="color: #ff69b4; text-align: right;">- Daniel T. Barry</p>
 </div>
 <div align="center" style="background-color: #1e2025; padding: 20px; margin: 20px 0; border-radius: 8px;">
   <p style="color: #7fffd4; font-size: 18px; font-style: italic;">
