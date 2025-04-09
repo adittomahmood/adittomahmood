@@ -70,12 +70,24 @@
 <div align="center">
   <table width="100%" style="margin: 30px 0; border: none; background: transparent;">
     <tr>
-      <td style="background: linear-gradient(135deg, #1e2025, #2d3748); padding: 30px; border-radius: 15px; border: 1px solid #4a5568; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
-        <p align="center" style="font-size: 24px; font-weight: 500; color: #7fffd4; font-style: italic; margin-bottom: 20px; line-height: 1.5;">
-          <span style="color: #ffd700; font-size: 32px;">❝</span> When debugging, novices insert corrective code; experts remove defective code. <span style="color: #ffd700; font-size: 32px;">❞</span>
+      <td style="background: linear-gradient(135deg, #0f1419, #1e293b); padding: 40px; border-radius: 20px; border: 2px solid #00ffcc; box-shadow: 0 15px 35px rgba(0, 255, 204, 0.2); position: relative; overflow: hidden;">
+        <!-- Neon Glow Effect -->
+        <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(0, 255, 204, 0.15), transparent); animation: pulse 6s infinite;"></div>
+        <p align="center" style="font-size: 28px; font-weight: 700; color: #ffffff; text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; font-style: italic; margin-bottom: 25px; line-height: 1.6; position: relative; z-index: 1;">
+          <span style="color: #ffd700; font-size: 40px; text-shadow: 0 0 15px #ffd700;">❝</span> 
+          When debugging, novices insert corrective code; <br><span style="color: #ff6bcb; font-weight: 800;">experts remove defective code.</span> 
+          <span style="color: #ffd700; font-size: 40px; text-shadow: 0 0 15px #ffd700;">❞</span>
         </p>
-        <p align="right" style="color: #ff69b4; margin-top: 0; font-size: 19px; font-weight: 600;">― Richard Pattis</p>
+        <p align="right" style="color: #ff6bcb; margin-top: 0; font-size: 22px; font-weight: 700; text-shadow: 0 0 8px #ff6bcb; position: relative; z-index: 1;">― Richard Pattis</p>
       </td>
     </tr>
   </table>
 </div>
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); opacity: 0.5; }
+    50% { transform: scale(1.1); opacity: 0.8; }
+    100% { transform: scale(1); opacity: 0.5; }
+  }
+</style>
