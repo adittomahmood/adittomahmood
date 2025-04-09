@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/Download%20CV-PDF-red" alt="Download CV" />
   </a>
 </div>
+
 <div align="center" style="background-color: #1e2025; padding: 20px; margin: 20px 0; border-radius: 8px;">
   <p style="color: #7fffd4; font-size: 18px; font-style: italic;">
     <span style="color: #ffd700;">"</span> When debugging, novices insert corrective code; experts remove defective code. <span style="color: #ffd700;">"</span>
@@ -74,5 +75,14 @@
 ##
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <table width="100%" style="margin: 20px 0; border: none;">
+    <tr>
+      <td style="background-color: #1e2025; padding: 25px; border-radius: 10px; border: 1px solid #30363d;">
+        <p align="center" style="font-size: 22px; color: #7fffd4; font-style: italic; margin-bottom: 15px;">
+          <span style="color: #ffd700;">"</span> When debugging, novices insert corrective code; experts remove defective code. <span style="color: #ffd700;">"</span>
+        </p>
+        <p align="right" style="color: #ff69b4; margin-top: 0; font-size: 18px;">- Richard Pattis</p>
+      </td>
+    </tr>
+  </table>
 </div>
