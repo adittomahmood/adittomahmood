@@ -7,13 +7,6 @@
   </a>
 </div>
 
-<div align="center" style="background-color: #1e2025; padding: 20px; margin: 20px 0; border-radius: 8px;">
-  <p style="color: #7fffd4; font-size: 18px; font-style: italic;">
-    <span style="color: #ffd700;">"</span> When debugging, novices insert corrective code; experts remove defective code. <span style="color: #ffd700;">"</span>
-  </p>
-  <p style="color: #ff69b4; text-align: right;">- Richard Pattis</p>
-</div>
-
 ## 🚀 Featured Projects
 <div align="center">
   <table>
