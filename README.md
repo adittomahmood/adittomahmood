@@ -1,17 +1,15 @@
 ![MasterHead](https://i.ibb.co/zFjRpqY/Facebook-Cover.png)
 
 <h1 align="center">Hi 👋, I'm Tasneem Bin Mahmood</h1>
-
-<div align="center">
   <a href="https://komarev.com/ghpvc/?username=adittomahmood">
     <img src="https://komarev.com/ghpvc/?username=adittomahmood&label=Profile%20views&color=0e75b6&style=flat" alt="adittomahmood" />
   </a>
+
+<div align="center">
   <a href="https://adittoportfolio.vercel.app/assets/Tasneem_Bin_Mahmood_Resume.pdf" download>
     <img src="https://img.shields.io/badge/Download%20CV-PDF-red" alt="Download CV" />
   </a>
-  <a href="https://github.com/adittomahmood?tab=followers">
-    <img src="https://img.shields.io/github/followers/adittomahmood?label=Followers&style=social" alt="GitHub followers" />
-  </a>
+  
 </div>
 
 ## 💫 About Me:
