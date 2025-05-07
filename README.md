@@ -5,7 +5,9 @@
     <img src="https://img.shields.io/badge/Download%20CV-PDF-red" alt="Download CV" />
   </a>
 </div>
+
 ## 🚀 Featured Projects
+
 <div align="center">
   <table>
     <tr>
@@ -40,7 +42,9 @@
     </tr>
   </table>
 </div>
+
 ## 🏆 Certifications & Achievements
+
 <div align="center">
   <table>
     <tr>
