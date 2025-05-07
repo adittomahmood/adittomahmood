@@ -67,7 +67,7 @@
       <td colspan="2">
         <div align="center">
           <p><strong>Supervised Machine Learning: Regression and Classification</strong></p>
-          <p><i>Issued by Stanford University • April 2024</i></p>
+          <p><i>Issued by Stanford University • April 2025</i></p>
           <a href="https://www.coursera.org/account/accomplishments/verify/6NMMU3SFSFK3" target="_blank">View credential</a>
         </div>
       </td>
