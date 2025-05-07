@@ -6,7 +6,7 @@
   </a>
 </div>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
   <table>
@@ -43,7 +43,7 @@
   </table>
 </div>
 
-## 🏆 Certifications & Achievements
+##  Certifications & Achievements
 
 <div align="center">
   <table>
