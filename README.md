@@ -62,5 +62,21 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <p>Learn Java Programming</p>
+          <p><i>Issued by Udemy • April 2025</i></p>
+          <a href="https://www.udemy.com/certificate/UC-860f33ff-0bac-4a9b-959c-306ef81d871c/" target="_blank">View Credential</a>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <p>Typing Speed</p>
+          <p><i>Issued by Typing.com • December 2024</i></p>
+          <a href="https://www.typing.com/apiv1/student/tests/328961096/156448677/certificate?language=en" target="_blank">View Credential</a>
+        </div>
+      </td>
+    </tr>
   </table>
 </div>
