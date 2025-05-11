@@ -18,7 +18,7 @@
             <img src="https://i.ibb.co.com/gLB1GwJN/geography-min-imageonline-co-merged.png" alt="Salary Prediction Model" width="100%" />
           </a>
           <p>
-            <a href="https://github.com/adittomahmood/Salary_Prediction_Model" target="_blank">
+            <a href="https://github.com/adittomahmood/CaliforniaHousePricePrediction" target="_blank">
               <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
             </a>
           </p>
