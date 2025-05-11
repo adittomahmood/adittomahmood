@@ -12,17 +12,18 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Machine Learning Salary Predictor</h3>
+        <h3 align="center">California House Prediction Model</h3>
         <div align="center">
-          <a href="https://github.com/adittomahmood/Salary_Prediction_Model" target="_blank">
-            <img src="https://i.ibb.co/RphYHR1c/Test-Data-Image-imageonline-co-merged.png" alt="Salary Prediction Model" width="100%" />
+          <a href="https://github.com/adittomahmood/CaliforniaHousePricePrediction" target="_blank">
+            <img src="https://i.ibb.co.com/gLB1GwJN/geography-min-imageonline-co-merged.png" alt="Salary Prediction Model" width="100%" />
           </a>
           <p>
             <a href="https://github.com/adittomahmood/Salary_Prediction_Model" target="_blank">
               <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
             </a>
           </p>
-          <p><strong>Python, Scikit-learn, Pandas, Matplotlib</strong> - An advanced ML model for predicting salaries based on experience, education, and industry variables with high accuracy.</p>
+         <p><strong>Developed a California house price prediction model using Linear Regression and Random Forest.Evaluated model performance using RMSE, MAE, and R², where Random Forest achieve
+           d an R² score of 0.81, significantly outperforming Linear Regression. The project offers deep insights into data-driven real estate forecasting.</p>
         </div>
       </td>
       <td width="50%">
