@@ -22,8 +22,8 @@
               <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
             </a>
           </p>
-         <p><strong>Developed a California house price prediction model using Linear Regression and Random Forest.Evaluated model performance using RMSE, MAE, and R², where Random Forest achieve
-           d an R² score of 0.81, significantly outperforming Linear Regression. The project offers deep insights into data-driven real estate forecasting.</p>
+         <p><strong>Developed a California house price prediction model using Linear Regression and Random Forest.Evaluated model performance using RMSE, MAE, and R², where Random Forest achieved 
+           an R² score of 0.81, significantly outperforming Linear Regression. The project offers deep insights into data-driven real estate forecasting.</p>
         </div>
       </td>
       <td width="50%">
