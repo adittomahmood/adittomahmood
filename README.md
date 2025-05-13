@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">California House Prediction Model</h3>
+        <h3 align="center">California House Price Prediction Model</h3>
         <div align="center">
           <a href="https://github.com/adittomahmood/CaliforniaHousePricePrediction" target="_blank">
             <img src="https://i.ibb.co.com/gLB1GwJN/geography-min-imageonline-co-merged.png" alt="Salary Prediction Model" width="100%" />
