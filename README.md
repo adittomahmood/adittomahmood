@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tasneem Bin Mahmood</h1>
 <div align="center">
   <a href="https://adittoportfolio.vercel.app/assets/Tasneem_Bin_Mahmood_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20CV-PDF-red" alt="Download CV" />
+    <img src="https://adittomahmood.vercel.app/Resume.pdf" alt="View My Resume" />
   </a>
 </div>
 
