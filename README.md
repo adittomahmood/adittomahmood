@@ -82,3 +82,7 @@
     </tr>
   </table>
 </div>
+<hr style="height: 3px; background: linear-gradient(90deg, #0366d6 0%, #6f42c1 100%); border: none; margin: 20px 0;">
+<div align="center" style="margin-top: 30px; margin-bottom: 20px;">
+  <p style="font-size: 14px; color: #586069;">© 2025 Tasneem Bin Mahmood • Machine Learning & Computer Vision Engineer</p>
+</div>
