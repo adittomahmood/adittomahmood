@@ -1,13 +1,10 @@
-![MasterHead](https://i.ibb.co/zFjRpqY/Facebook-Cover.png)
 <h1 align="center">Hi 👋, I'm Tasneem Bin Mahmood</h1>
 <div align="center">
   <a href="https://adittomahmood.vercel.app/Resume.pdf" download>
    <img src="https://img.shields.io/badge/View%20Resume-PDF-blue" alt="View My Resume" />
   </a>
 </div>
-
 ##  Featured Projects
-
 <div align="center">
   <table>
     <tr>
@@ -43,9 +40,7 @@
     </tr>
   </table>
 </div>
-
 ##  Certifications & Achievements
-
 <div align="center">
   <table>
     <tr>
@@ -65,11 +60,18 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td width="50%">
         <div align="center">
           <p><strong>Supervised Machine Learning: Regression and Classification</strong></p>
           <p><i>Issued by Stanford University • April 2025</i></p>
           <a href="https://www.coursera.org/account/accomplishments/verify/6NMMU3SFSFK3" target="_blank">View credential</a>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <p><strong>Disaster Risk Monitoring Using Satellite Imagery</strong></p>
+          <p><i>Issued by NVIDIA DLI • May 2025</i></p>
+          <a href="https://learn.nvidia.com/certificates?id=W1ISDza7QeSrsY2WxL_KPg#" target="_blank">View Credential</a>
         </div>
       </td>
     </tr>
