@@ -1,10 +1,13 @@
+![MasterHead](https://i.ibb.co/zFjRpqY/Facebook-Cover.png)
 <h1 align="center">Hi 👋, I'm Tasneem Bin Mahmood</h1>
 <div align="center">
   <a href="https://adittomahmood.vercel.app/Resume.pdf" download>
    <img src="https://img.shields.io/badge/View%20Resume-PDF-blue" alt="View My Resume" />
   </a>
 </div>
+
 ##  Featured Projects
+
 <div align="center">
   <table>
     <tr>
@@ -40,7 +43,9 @@
     </tr>
   </table>
 </div>
+           
 ##  Certifications & Achievements
+
 <div align="center">
   <table>
     <tr>
