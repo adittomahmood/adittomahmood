@@ -67,9 +67,9 @@
     <tr>
       <td width="50%">
         <div align="center">
-          <p><strong>Supervised Machine Learning: Regression and Classification</strong></p>
-          <p><i>Issued by Stanford University • April 2025</i></p>
-          <a href="https://www.coursera.org/account/accomplishments/verify/6NMMU3SFSFK3" target="_blank">View credential</a>
+          <p><strong>Machine Learning Specialization</strong></p>
+          <p><i>Issued by DeepLearningAI and Stanford University (Online) • June 2025</i></p>
+          <a href="https://www.coursera.org/account/accomplishments/specialization/K7VDNQUM9Q1I" target="_blank">View credential</a>
         </div>
       </td>
       <td width="50%">
