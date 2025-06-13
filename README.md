@@ -117,12 +117,8 @@
   <h2>🌐 LET'S CONNECT & COLLABORATE</h2>
   
 
-  <a href="https://linkedin.com/in/adittomahmood">
-    <img src="https://custom-icon-badges.demolab.com/badge/_LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/adittomahmood">
-    <img src="https://custom-icon-badges.demolab.com/badge/_Follow_Me-181717?style=for-the-badge&logoColor=white&logo=github"/>
-  </a>
+[![LinkedIn Profile](https://custom-icon-badges.demolab.com/badge/_LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin)](https://linkedin.com/in/adittomahmood) 
+[![GitHub Profile](https://custom-icon-badges.demolab.com/badge/_Follow_Me-181717?style=for-the-badge&logoColor=white&logo=github)](https://github.com/adittomahmood)
 
   <br/>
   <br/>
