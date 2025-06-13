@@ -13,7 +13,7 @@
 
 <br/>
 
----
+
 
 ## **FEATURED PROJECTS**
 
@@ -60,7 +60,6 @@
 
 <br/>
 
----
 
 ## **CERTIFICATIONS & ACHIEVEMENTS**
 
@@ -111,7 +110,6 @@
 
 <br/>
 
----
 
 <div align="center">
   <h2> 🌐 LET'S CONNECT & COLLABORATE</h2>
