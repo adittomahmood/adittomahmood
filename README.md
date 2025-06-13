@@ -1,12 +1,9 @@
 ![MasterHead](https://i.ibb.co/zFjRpqY/Facebook-Cover.png)
 <div align="center">
-  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tasneem+Bin+Mahmood&repeat=false" alt="Typing SVG" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tasneem+Bin+Mahmood&repeat=false" alt="Typing SVG" />
+  </p>
 
-
-  
   <div style="margin: 20px 0;">
     <a href="https://adittomahmood.vercel.app/Resume.pdf" download>
       <img src="https://custom-icon-badges.demolab.com/badge/_View_Resume-FF6B6B?style=for-the-badge&logoColor=white&logo=download" alt="Download Resume" />
@@ -15,6 +12,8 @@
 </div>
 
 <br/>
+
+---
 
 ## **FEATURED PROJECTS**
 
@@ -33,10 +32,9 @@
           </a>
           <br/><br/>
           <img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" />
-          <br/>
           <p><strong>Tech Stack:</strong> Python • Scikit-learn • Linear Regression • Random Forest</p>
-          <p><strong>Achievement:</strong> R² Score of <span style="color: #00D9FF;">0.81</span> with Random Forest</p>
-          <p>Built an advanced real estate prediction system that significantly outperformed baseline models, providing deep insights into California's housing market through sophisticated ML algorithms.</p>
+          <p><strong>Achievement:</strong> Achieved an R² Score of <span style="color: #00D9FF;">0.81</span> with Random Forest, significantly outperforming baseline models.</p>
+          <p>Developed an advanced real estate prediction system providing deep insights into California's housing market through sophisticated machine learning algorithms.</p>
         </div>
       </td>
       <td width="50%">
@@ -51,10 +49,9 @@
           </a>
           <br/><br/>
           <img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" />
-          <br/>
           <p><strong>Tech Stack:</strong> TensorFlow • Python • Pandas • Deep Learning</p>
-          <p><strong>Achievement:</strong> <span style="color: #00D9FF;">97.78%</span> R² Accuracy</p>
-          <p>Engineered a state-of-the-art deep neural network with polynomial features and regularization techniques, achieving near-perfect accuracy in used car valuation predictions.</p>
+          <p><strong>Achievement:</strong> Attained <span style="color: #00D9FF;">97.78%</span> R² Accuracy, delivering near-perfect used car valuation predictions.</p>
+          <p>Engineered a state-of-the-art deep neural network, incorporating polynomial features and regularization techniques for highly accurate used car valuation.</p>
         </div>
       </td>
     </tr>
@@ -62,6 +59,8 @@
 </div>
 
 <br/>
+
+---
 
 ## **CERTIFICATIONS & ACHIEVEMENTS**
 
@@ -112,20 +111,21 @@
 
 <br/>
 
-<div align="center">
-  
-  <h2> 🌐 LET'S CONNECT & COLLAB</h2>
+---
 
-[![LinkedIn Profile](https://custom-icon-badges.demolab.com/badge/_LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin)](https://linkedin.com/in/adittomahmood) 
+<div align="center">
+  <h2> 🌐 LET'S CONNECT & COLLABORATE</h2>
+
+[![LinkedIn Profile](https://custom-icon-badges.demolab.com/badge/_LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin)](https://linkedin.com/in/adittomahmood)
 [![GitHub Profile](https://custom-icon-badges.demolab.com/badge/_Follow_Me-181717?style=for-the-badge&logoColor=white&logo=github)](https://github.com/adittomahmood)
 
   <br/>
   <br/>
-  
+
   <p style="font-size: 12px; color: #8B949E;">
     © 2025 Tasneem Bin Mahmood • Machine Learning & Computer Vision Engineer
   </p>
-  
+
 </div>
 
 <div align="center">
