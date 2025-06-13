@@ -114,7 +114,7 @@
 
 <div align="center">
   
-  <h2> LET'S CONNECT & COLLABORATE</h2>
+  <h2> 🌐 LET'S CONNECT & COLLAB</h2>
 
 [![LinkedIn Profile](https://custom-icon-badges.demolab.com/badge/_LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin)](https://linkedin.com/in/adittomahmood) 
 [![GitHub Profile](https://custom-icon-badges.demolab.com/badge/_Follow_Me-181717?style=for-the-badge&logoColor=white&logo=github)](https://github.com/adittomahmood)
