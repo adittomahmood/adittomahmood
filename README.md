@@ -14,7 +14,7 @@
       <td width="50%">
         <h3 align="center">California House Price Prediction Model</h3>
         <div align="center">
-          <a href="https://github.com/adittomahmood/CaliforniaHousePricePrediction" target="_blank">
+          <a href="https://i.ibb.co/cchW7wzY/geography-min-imageonline-co-merged-min.png" target="_blank">
             <img src="https://i.ibb.co.com/gLB1GwJN/geography-min-imageonline-co-merged.png" alt="Salary Prediction Model" width="100%" />
           </a>
           <p>
@@ -22,22 +22,22 @@
               <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
             </a>
           </p>
-         <p><strong>Developed a California house price prediction model using Linear Regression and Random Forest.Evaluated model performance using RMSE, MAE, and R², where Random Forest achieved 
+         <p><strong>Developed a California house price prediction model using Linear Regression and Random Forest. Evaluated model performance using RMSE, MAE, and R², where Random Forest achieved 
            an R² score of 0.81, significantly outperforming Linear Regression. The project offers deep insights into data-driven real estate forecasting.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Business Profit Prediction System</h3>
+        <h3 align="center">Second-Hand Car Price Prediction</h3>
         <div align="center">
-          <a href="https://github.com/adittomahmood/Profit_Prediction_Model" target="_blank">
-            <img src="https://i.ibb.co.com/p6ByJD7y/predicted-photo-imageonline-co-merged.png" alt="Profit Prediction Model" width="100%" />
+          <a href="https://github.com/adittomahmood/CarPricePrediction" target="_blank">
+            <img src="https://i.ibb.co/SDJ6fSMB/merged.png" alt="Car Price Prediction Model" width="100%" />
           </a>
           <p>
-            <a href="https://github.com/adittomahmood/Profit_Prediction_Model" target="_blank">
+            <a href="https://github.com/adittomahmood/CarPricePrediction" target="_blank">
               <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
             </a>
           </p>
-          <p><strong>Python, Pandas, scikit-learn, Matplotlib</strong> – Built a business profit prediction model using Multiple Linear Regression. Utilized real startup investment data to train and evaluate the model, enabling data-driven forecasting of company profits.</p>
+          <p><strong>TensorFlow, Python, Pandas, Deep Learning</strong> – Built an advanced car price prediction model using deep neural networks with sophisticated feature engineering. Achieved 97.78% R² accuracy through polynomial features, interaction terms, and regularized architecture, enabling precise used car valuation.</p>
         </div>
       </td>
     </tr>
