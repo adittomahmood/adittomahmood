@@ -100,9 +100,9 @@
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
   <p style="font-size: 14px; color: #586069;">© 2025 Tasneem Bin Mahmood • Machine Learning & Computer Vision Engineer</p>
   <p>
-    <a href="mailto:adittomahmood@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+   <a href="mailto:adittomahmood@gmail.com" title="Email me">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+</a>
     <a href="https://linkedin.com/in/adittomahmood">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
