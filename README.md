@@ -24,9 +24,9 @@
         <div align="center">
           <h3>California House Price Prediction Model</h3>
           <a href="https://github.com/adittomahmood/CaliforniaHousePricePrediction" target="_blank">
-            <img src="https://i.ibb.co/cchW7wzY/geography-min-imageonline-co-merged-min.png" width="100%" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+            <img src="https://i.ibb.co/cchW7wzY/geography-min-imageonline-co-merged-min.png" width="100%"/>
           </a>
-          <br/><br/>
+          <br/>
           <a href="https://github.com/adittomahmood/CaliforniaHousePricePrediction" target="_blank">
             <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
           </a>
@@ -41,7 +41,7 @@
         <div align="center">
           <h3>Second-Hand Car Price Prediction</h3>
           <a href="https://github.com/adittomahmood/CarPricePrediction" target="_blank">
-            <img src="https://i.ibb.co/SDJ6fSMB/merged.png" width="100%" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+            <img src="https://i.ibb.co/SDJ6fSMB/merged.png" width="100%"/>
           </a>
           <br/><br/>
           <a href="https://github.com/adittomahmood/CarPricePrediction" target="_blank">
