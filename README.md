@@ -24,7 +24,7 @@
         <div align="center">
           <h3>California House Price Prediction Model</h3>
           <a href="https://github.com/adittomahmood/CaliforniaHousePricePrediction" target="_blank">
-            <img src="https://i.ibb.co/cchW7wzY/geography-min-imageonline-co-merged-min.png" width="100%"/>
+            <img src="https://i.ibb.co/b54PHMBZ/California-House-Price-Merged.jpg" width="100%"/>
           </a>
           <br/>
           <a href="https://github.com/adittomahmood/CaliforniaHousePricePrediction" target="_blank">
