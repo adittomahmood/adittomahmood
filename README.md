@@ -28,7 +28,7 @@
           </a>
           <br/><br/>
           <p><strong>Achievement:</strong> Achieved an R² Score of <span style="color: #00D9FF;">0.81</span> with Random Forest, significantly outperforming baseline models.</p>
-          <p>Developed an advanced real estate prediction system providing deep insights into California's housing market through sophisticated machine learning algorithms.</p>
+          <p>Developed an advanced real estate prediction system providing deep insights into California's housing market.</p>
         </div>
       </td>
       <td width="50%">
@@ -43,7 +43,7 @@
           </a>
           <br/><br/>
           <p><strong>Achievement:</strong> Attained <span style="color: #00D9FF;">97.78%</span> R² Accuracy, delivering near-perfect used car valuation predictions.</p>
-          <p>Engineered a state-of-the-art deep neural network, incorporating polynomial features and regularization techniques for highly accurate used car valuation.</p>
+          <p>Engineered a deep neural network, incorporating polynomial features and regularization techniques for highly accurate used car valuation.</p>
         </div>
       </td>
     </tr>
