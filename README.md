@@ -1,9 +1,5 @@
 ![MasterHead](https://i.ibb.co/zFjRpqY/Facebook-Cover.png)
 <div align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tasneem+Bin+Mahmood&repeat=false" alt="Typing SVG" />
-  </p>
-
   <div style="margin: 20px 0;">
     <a href="https://adittomahmood.vercel.app/Resume.pdf" download>
       <img src="https://custom-icon-badges.demolab.com/badge/_View_Resume-FF6B6B?style=for-the-badge&logoColor=white&logo=download" alt="Download Resume" />
