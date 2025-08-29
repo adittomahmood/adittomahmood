@@ -9,8 +9,6 @@
 
 <br/>
 
-
-
 ## **FEATURED PROJECTS**
 
 <div align="center">
@@ -33,17 +31,16 @@
       </td>
       <td width="50%">
         <div align="center">
-          <h3>Second-Hand Car Price Prediction</h3>
-          <a href="https://github.com/adittomahmood/CarPricePrediction" target="_blank">
-            <img src="https://i.ibb.co/SDJ6fSMB/merged.png" width="100%"/>
+          <h3>Malaria Cell Detection (Computer Vision)</h3>
+          <a href="https://github.com/adittomahmood/Malaria-Detection" target="_blank">
+            <img src="https://i.ibb.co/zW7zSLDm/Malaria-Detection-Thumbnail.png" width="100%"/>
           </a>
           <br/><br/>
-          <a href="https://github.com/adittomahmood/CarPricePrediction" target="_blank">
+          <a href="https://github.com/adittomahmood/Malaria-Detection" target="_blank">
             <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
           </a>
           <br/><br/>
-          <p><strong>Achievement:</strong> Attained <span style="color: #00D9FF;">97.78%</span> R² Accuracy, delivering near-perfect used car valuation predictions.</p>
-          <p>Engineered a deep neural network, incorporating polynomial features and regularization techniques for highly accurate used car valuation.</p>
+          <p>Built a deep learning model using a convolutional neural network (CNN) to accurately classify blood cells as infected or healthy.</p>
         </div>
       </td>
     </tr>
@@ -51,7 +48,6 @@
 </div>
 
 <br/>
-
 
 ## **CERTIFICATIONS & ACHIEVEMENTS**
 
@@ -102,20 +98,18 @@
 
 <br/>
 
-
 <div align="center">
-  <h2> 🌐 LET'S CONNECT & COLLABORATE</h2>
-
-[![LinkedIn Profile](https://custom-icon-badges.demolab.com/badge/_LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin)](https://linkedin.com/in/adittomahmood)
-[![GitHub Profile](https://custom-icon-badges.demolab.com/badge/_Follow_Me-181717?style=for-the-badge&logoColor=white&logo=github)](https://github.com/adittomahmood)
-
-  <br/>
-  <br/>
-
+  <h2>🌐 LET'S CONNECT & COLLABORATE</h2>
+  <a href="https://linkedin.com/in/adittomahmood">
+    <img src="https://custom-icon-badges.demolab.com/badge/_LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin" />
+  </a>
+  <a href="https://github.com/adittomahmood">
+    <img src="https://custom-icon-badges.demolab.com/badge/_Follow_Me-181717?style=for-the-badge&logoColor=white&logo=github" />
+  </a>
+  <br/><br/>
   <p style="font-size: 12px; color: #8B949E;">
     © 2025 Tasneem Bin Mahmood • Machine Learning & Computer Vision Engineer
   </p>
-
 </div>
 
 <div align="center">
