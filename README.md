@@ -36,7 +36,7 @@
             <img src="https://i.ibb.co/zW7zSLDm/Malaria-Detection-Thumbnail.png" width="100%"/>
           </a>
           <br/><br/>
-          <a href="https://github.com/adittomahmood/Malaria-Detection" target="_blank">
+          <a href="https://github.com/adittomahmood/Malaria_Cell_Detection_CV" target="_blank">
             <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
           </a>
           <br/><br/>
