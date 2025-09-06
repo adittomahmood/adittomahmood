@@ -32,7 +32,7 @@
       <td width="50%">
         <div align="center">
           <h3>Malaria Cell Detection (Computer Vision)</h3>
-          <a href="https://github.com/adittomahmood/Malaria-Detection" target="_blank">
+          <a href="https://github.com/adittomahmood/Malaria_Cell_Detection_CV" target="_blank">
             <img src="https://i.ibb.co/zW7zSLDm/Malaria-Detection-Thumbnail.png" width="100%"/>
           </a>
           <br/><br/>
