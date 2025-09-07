@@ -40,7 +40,7 @@
             <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
           </a>
           <br/><br/>
-          <p>Deployed an end-to-end deep learning pipeline that detects malaria-infected cells with TensorFlow, Streamlit, and cloud hosting</p>
+          <p>Deployed an end-to-end deep learning pipeline that detects malaria-infected cells with TensorFlow and Streamlit</p>
         </div>
       </td>
     </tr>
