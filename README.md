@@ -40,7 +40,7 @@
             <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
           </a>
           <br/><br/>
-          <p>Built a deep learning model using a convolutional neural network (CNN) to accurately classify blood cells as infected or healthy.</p>
+          <p>Deployed an end-to-end deep learning pipeline that detects malaria-infected cells with TensorFlow, Streamlit, and cloud hosting</p>
         </div>
       </td>
     </tr>
