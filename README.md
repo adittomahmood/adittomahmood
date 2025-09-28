@@ -1,4 +1,5 @@
 ![MasterHead](https://i.ibb.co/zFjRpqY/Facebook-Cover.png)
+
 <div align="center">
   <div style="margin: 20px 0;">
     <a href="https://adittomahmood.vercel.app/Resume.pdf" download>
@@ -16,17 +17,17 @@
     <tr>
       <td width="50%">
         <div align="center">
-          <h3>California House Price Prediction Model</h3>
-          <a href="https://github.com/adittomahmood/CaliforniaHousePricePrediction" target="_blank">
-            <img src="https://i.ibb.co/b54PHMBZ/California-House-Price-Merged.jpg" width="100%"/>
+          <h3>Human Emotion Detection (Computer Vision)</h3>
+          <a href="https://github.com/adittomahmood/Human_Emotion_Detections_CV" target="_blank">
+            <img src="https://res.cloudinary.com/dtv7wldhe/image/upload/v1759009712/ChatGPT_Image_Sep_28_2025_03_47_49_AM_chuooe.png" width="100%"/>
           </a>
           <br/>
-          <a href="https://github.com/adittomahmood/CaliforniaHousePricePrediction" target="_blank">
+          <a href="https://github.com/adittomahmood/Human_Emotion_Detections_CV" target="_blank">
             <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
           </a>
           <br/><br/>
-          <p><strong>Achievement:</strong> Achieved an R² Score of <span style="color: #00D9FF;">0.81</span> with Random Forest, significantly outperforming baseline models.</p>
-          <p>Developed an advanced real estate prediction system providing deep insights into California's housing market.</p>
+          <p><strong>Achievement:</strong> Achieved a <span style="color: #00D9FF;">91.44%</span> test accuracy classifying Angry, Happy, Sad, and Surprise emotions using a fine-tuned ResNet50 model.</p>
+          <p>Implemented a full computer vision pipeline with TensorFlow, Streamlit, data augmentation, and cutmix augmentation to improve generalization and real-time emotion detection.</p>
         </div>
       </td>
       <td width="50%">
