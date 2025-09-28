@@ -26,7 +26,7 @@
             <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" />
           </a>
           <br/><br/>
-          <p><strong>Achievement:</strong> Achieved a <span style="color: #00D9FF;">91.44%</span> test accuracy classifying Angry, Happy, Sad, and Surprise emotions using a fine-tuned ResNet50 model.</p>
+          <p>Achieved a <span style="color: #00D9FF;">91.44%</span> test accuracy classifying Angry, Happy, Sad, and Surprise emotions using a fine-tuned ResNet50 model.</p>
         </div>
       </td>
       <td width="50%">
