@@ -27,7 +27,6 @@
           </a>
           <br/><br/>
           <p><strong>Achievement:</strong> Achieved a <span style="color: #00D9FF;">91.44%</span> test accuracy classifying Angry, Happy, Sad, and Surprise emotions using a fine-tuned ResNet50 model.</p>
-          <p>Implemented a full computer vision pipeline with TensorFlow, Streamlit, data augmentation, and cutmix augmentation to improve generalization and real-time emotion detection.</p>
         </div>
       </td>
       <td width="50%">
